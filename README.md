@@ -1,19 +1,21 @@
-//ModeSelect_Adder_Subtractor
+//modeselect_adder_subtractor
 -> Main Design
 
-//ModeSelect_Simulation
+//Testbench
 -> Main Simulation
 
-//32-bit Ripple Carry Adder
+//32-bit_ripple_carry_adder
 -> Utilized in Main 
 
-//8-bit Carry Look-Ahead Adder
+//8-bit_carry_look_ahead_adder
 ->Prototype
 
-//8-bit Ripple Carry Adder
+//8-bit_ripple_carry_adder
 ->Prototype
 
-//Full Adder
+//full_adder
 
-//Half Adder
+//half_adder
+
+
 
